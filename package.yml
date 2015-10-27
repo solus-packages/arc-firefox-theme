@@ -1,6 +1,6 @@
 name       : arc-firefox-theme
 version    : 41.20150921
-release    : 2
+release    : 3
 source     :
     - https://solus-project.com/sources/arc-firefox-theme-41.20150921.tar.xz : e30ea2487103deae2a015c6b9c9fdb9b4db32a7bb84fecb1810628e67d928cf1
 license    : MPL-2.0
@@ -9,6 +9,7 @@ description: |
     Arc GTK theme for the Firefox Web Browser
 rundeps    :
     - arc-gtk-theme
+    - firefox
 setup      : |
     ./autogen.sh
     %configure --enable-darker --enable-dark --enable-light

@@ -19,13 +19,14 @@
         <PartOf>desktop.theme</PartOf>
         <RuntimeDependencies>
             <Dependency>arc-gtk-theme</Dependency>
+            <Dependency>firefox</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/firefox</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
+        <Update release="3">
             <Date>2015-10-27</Date>
             <Version>41.20150921</Version>
             <Comment>Packaging update</Comment>
