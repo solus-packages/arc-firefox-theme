@@ -177,6 +177,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/downloads.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/drm-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/error-pages.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/favicon-search-16.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/feeds/audioFeedIcon.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/feeds/audioFeedIcon16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/feeds/feedIcon.png</Path>
@@ -200,6 +201,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/heartbeat-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/heartbeat-star-lit.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/heartbeat-star-off.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/icon-search-64.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/identity-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/identity-mixed-active-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/identity-mixed-active-loaded.svg</Path>
@@ -270,7 +272,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/in-content/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/mail.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/preferences.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/privatebrowsing-mask.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/privatebrowsing/aboutPrivateBrowsing.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/privatebrowsing/check.svg</Path>
@@ -294,6 +295,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/search-indicator.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/search-indicator@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/search-pref.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/searchReset.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/searchbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/session-restore.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/setDesktopBackground.css</Path>
@@ -309,10 +311,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-32.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-bg.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-desktopIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-desktopIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-horizontalbar.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-horizontalbar@2x.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-mobileIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-mobileIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/sync-notification-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/syncCommon.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/syncProgress-horizontalbar.png</Path>
@@ -485,7 +487,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/error-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/error-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/expand.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/find-arrows.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/find-arrows.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/folder-item.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/info.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/information-16.png</Path>
@@ -548,7 +550,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/back.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/fast.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/forward.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/narrate.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/slow.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/start.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/narrate/stop.svg</Path>
@@ -570,6 +571,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/radio/radio-check-dis.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/radio/radio-check.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Close-24x24.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Content-Width-Minus-42x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Content-Width-Plus-44x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Line-Height-Minus-38x14.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Line-Height-Plus-38x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Minus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Plus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/reader/RM-Type-Controls-24x24.svg</Path>
@@ -836,6 +841,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/downloads.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/drm-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/error-pages.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/favicon-search-16.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/feeds/audioFeedIcon.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/feeds/audioFeedIcon16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/feeds/feedIcon.png</Path>
@@ -859,6 +865,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/heartbeat-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/heartbeat-star-lit.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/heartbeat-star-off.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/icon-search-64.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/identity-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/identity-mixed-active-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/identity-mixed-active-loaded.svg</Path>
@@ -929,7 +936,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/in-content/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/mail.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/preferences.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/privatebrowsing-mask.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/privatebrowsing/aboutPrivateBrowsing.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/privatebrowsing/check.svg</Path>
@@ -953,6 +959,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/search-indicator.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/search-indicator@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/search-pref.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/searchReset.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/searchbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/session-restore.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/setDesktopBackground.css</Path>
@@ -968,10 +975,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-32.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-bg.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-desktopIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-desktopIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-horizontalbar.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-horizontalbar@2x.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-mobileIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-mobileIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/sync-notification-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/syncCommon.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/syncProgress-horizontalbar.png</Path>
@@ -1144,7 +1151,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/error-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/error-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/expand.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/find-arrows.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/find-arrows.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/folder-item.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/info.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/information-16.png</Path>
@@ -1207,7 +1214,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/back.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/fast.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/forward.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/narrate.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/slow.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/start.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/narrate/stop.svg</Path>
@@ -1229,6 +1235,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/radio/radio-check-dis.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/radio/radio-check.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Close-24x24.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Content-Width-Minus-42x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Content-Width-Plus-44x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Line-Height-Minus-38x14.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Line-Height-Plus-38x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Minus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Plus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/reader/RM-Type-Controls-24x24.svg</Path>
@@ -1495,6 +1505,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/downloads.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/drm-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/error-pages.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/favicon-search-16.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/feeds/audioFeedIcon.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/feeds/audioFeedIcon16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/feeds/feedIcon.png</Path>
@@ -1518,6 +1529,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/heartbeat-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/heartbeat-star-lit.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/heartbeat-star-off.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/icon-search-64.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/identity-icon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/identity-mixed-active-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/identity-mixed-active-loaded.svg</Path>
@@ -1588,7 +1600,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/in-content/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/mail.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/preferences.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/search.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/privatebrowsing-mask.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/privatebrowsing/aboutPrivateBrowsing.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/privatebrowsing/check.svg</Path>
@@ -1612,6 +1623,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/search-indicator.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/search-indicator@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/search-pref.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/searchReset.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/searchbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/session-restore.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/setDesktopBackground.css</Path>
@@ -1627,10 +1639,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-32.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-bg.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-desktopIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-desktopIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-horizontalbar.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-horizontalbar@2x.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-mobileIcon.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-mobileIcon.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/sync-notification-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/syncCommon.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/syncProgress-horizontalbar.png</Path>
@@ -1803,7 +1815,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/error-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/error-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/expand.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/find-arrows.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/find-arrows.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/folder-item.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/info.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/information-16.png</Path>
@@ -1866,7 +1878,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/back.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/fast.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/forward.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/narrate.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/slow.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/start.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/narrate/stop.svg</Path>
@@ -1888,6 +1899,10 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/radio/radio-check-dis.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/radio/radio-check.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Close-24x24.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Content-Width-Minus-42x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Content-Width-Plus-44x16.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Line-Height-Minus-38x14.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Line-Height-Plus-38x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Minus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Plus-24x24.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/reader/RM-Type-Controls-24x24.svg</Path>
@@ -1999,9 +2014,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="10">
-            <Date>2016-08-04</Date>
-            <Version>48.20160802</Version>
+        <Update release="11">
+            <Date>2016-09-19</Date>
+            <Version>49.20160919</Version>
             <Comment>Packaging update</Comment>
             <Name>Ikey Doherty</Name>
             <Email>ikey@solus-project.com</Email>
