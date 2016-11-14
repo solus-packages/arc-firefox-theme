@@ -1,8 +1,8 @@
 name       : arc-firefox-theme
-version    : '49.20160919'
-release    : 11
+version    : '50.20161114'
+release    : 12
 source     :
-    - https://github.com/horst3180/arc-firefox-theme/archive/49.20160919.tar.gz : e635f00b82467290e1b6e8d2d93a0a395b5c4fc518c0a72c892043e49e283556
+    - https://github.com/horst3180/arc-firefox-theme/archive/50.20161114.tar.gz : c229c66a66cc37c275a42c8f11a848b377f07896ab01bc0d6812e8fc7ee3f2c3
 license    : MPL-2.0
 summary    : Arc GTK theme for the Firefox Web Browser
 description: |
