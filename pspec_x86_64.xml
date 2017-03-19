@@ -2,8 +2,8 @@
     <Source>
         <Name>arc-firefox-theme</Name>
         <Packager>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>MPL-2.0</License>
         <PartOf>desktop.theme</PartOf>
@@ -76,8 +76,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-inactive.svg</Path>
@@ -114,8 +112,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-inactive.svg</Path>
@@ -167,7 +163,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/devedition/urlbar-history-dropmarker.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/devtools/common.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/allDownloadsViewOverlay.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/buttons.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/contentAreaDownloadsView.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/download-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/downloads/download-glow-menuPanel.png</Path>
@@ -253,6 +248,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/places/unstarred48.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/alwaysAsk.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/applications.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/containers.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/in-content/containers.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/in-content/dialog.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/in-content/favicon.ico</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/preferences/in-content/icons.svg</Path>
@@ -354,16 +351,14 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/update-badge.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/urlbar-star.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/urlbar-tab.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/usercontext/banking.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/usercontext/personal.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/usercontext/shopping.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/usercontext/work.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/warning-white.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/warning.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/webRTC-camera-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/webRTC-indicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/webRTC-microphone-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/webRTC-screen-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/welcome-back.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/browser/wifi.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/communicator/communicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/Filepicker.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/about.css</Path>
@@ -455,6 +450,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/information-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/information-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/information-32.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/input-clear.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/loading.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/loading@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/icons/question-16.png</Path>
@@ -549,6 +545,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/resizer.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/richlistbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scale.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scale/scale-tray-horiz.gif</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scale/scale-tray-vert.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scrollbar/slider.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scrollbars.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/scrollbox.css</Path>
@@ -561,6 +559,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/tabbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/tabprompts.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/textbox.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/timepicker.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/toolbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/toolbar/chevron-inverted.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/global/toolbar/chevron.gif</Path>
@@ -628,9 +627,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginBlocked.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginClose.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginCrashed.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginDisabled.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginDownload.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginMissing.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/contentPluginStripe.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/pluginBlocked-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{03cb16aa-4675-11e5-b233-213b1d5d46b0}/chrome/mozapps/plugins/pluginBlocked.png</Path>
@@ -702,8 +698,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/dark/tabs/tab-close-inactive.svg</Path>
@@ -740,8 +734,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/custom_images/light/tabs/tab-close-inactive.svg</Path>
@@ -793,7 +785,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/devedition/urlbar-history-dropmarker.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/devtools/common.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/allDownloadsViewOverlay.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/buttons.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/contentAreaDownloadsView.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/download-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/downloads/download-glow-menuPanel.png</Path>
@@ -879,6 +870,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/places/unstarred48.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/alwaysAsk.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/applications.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/containers.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/in-content/containers.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/in-content/dialog.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/in-content/favicon.ico</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/preferences/in-content/icons.svg</Path>
@@ -980,16 +973,14 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/update-badge.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/urlbar-star.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/urlbar-tab.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/usercontext/banking.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/usercontext/personal.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/usercontext/shopping.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/usercontext/work.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/warning-white.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/warning.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/webRTC-camera-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/webRTC-indicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/webRTC-microphone-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/webRTC-screen-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/welcome-back.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/browser/wifi.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/communicator/communicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/Filepicker.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/about.css</Path>
@@ -1081,6 +1072,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/information-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/information-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/information-32.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/input-clear.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/loading.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/loading@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/icons/question-16.png</Path>
@@ -1175,6 +1167,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/resizer.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/richlistbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scale.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scale/scale-tray-horiz.gif</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scale/scale-tray-vert.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scrollbar/slider.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scrollbars.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/scrollbox.css</Path>
@@ -1187,6 +1181,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/tabbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/tabprompts.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/textbox.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/timepicker.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/toolbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/toolbar/chevron-inverted.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/global/toolbar/chevron.gif</Path>
@@ -1254,9 +1249,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginBlocked.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginClose.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginCrashed.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginDisabled.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginDownload.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginMissing.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/contentPluginStripe.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/pluginBlocked-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{52c2877e-44e1-11e5-8874-a62d1d5d46B0}/chrome/mozapps/plugins/pluginBlocked.png</Path>
@@ -1328,8 +1320,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/dark/tabs/tab-close-inactive.svg</Path>
@@ -1366,8 +1356,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/alltabs.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/new-tab.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-arrow-left.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-audio-small.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-audio.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-active.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-hover.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/custom_images/light/tabs/tab-close-inactive.svg</Path>
@@ -1419,7 +1407,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/devedition/urlbar-history-dropmarker.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/devtools/common.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/allDownloadsViewOverlay.css</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/buttons.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/contentAreaDownloadsView.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/download-blocked.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/downloads/download-glow-menuPanel.png</Path>
@@ -1505,6 +1492,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/places/unstarred48.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/alwaysAsk.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/applications.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/containers.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/in-content/containers.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/in-content/dialog.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/in-content/favicon.ico</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/preferences/in-content/icons.svg</Path>
@@ -1606,16 +1595,14 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/update-badge.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/urlbar-star.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/urlbar-tab.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/usercontext/banking.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/usercontext/personal.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/usercontext/shopping.svg</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/usercontext/work.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/warning-white.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/warning.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/webRTC-camera-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/webRTC-indicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/webRTC-microphone-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/webRTC-screen-white-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/welcome-back.svg</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/browser/wifi.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/communicator/communicator.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/Filepicker.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/about.css</Path>
@@ -1707,6 +1694,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/information-16.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/information-24.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/information-32.png</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/input-clear.svg</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/loading.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/loading@2x.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/icons/question-16.png</Path>
@@ -1801,6 +1789,8 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/resizer.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/richlistbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scale.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scale/scale-tray-horiz.gif</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scale/scale-tray-vert.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scrollbar/slider.gif</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scrollbars.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/scrollbox.css</Path>
@@ -1813,6 +1803,7 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/tabbox.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/tabprompts.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/textbox.css</Path>
+            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/timepicker.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/toolbar.css</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/toolbar/chevron-inverted.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/global/toolbar/chevron.gif</Path>
@@ -1880,9 +1871,6 @@
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginBlocked.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginClose.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginCrashed.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginDisabled.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginDownload.png</Path>
-            <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginMissing.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/contentPluginStripe.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/pluginBlocked-64.png</Path>
             <Path fileType="library">/usr/lib64/firefox/browser/extensions/{8a01dfcc-450f-11e5-909b-fb581d5d46b0}/chrome/mozapps/plugins/pluginBlocked.png</Path>
@@ -1900,12 +1888,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="13">
-            <Date>2016-11-14</Date>
-            <Version>51.20170123</Version>
+        <Update release="14">
+            <Date>2017-03-19</Date>
+            <Version>52.20170311</Version>
             <Comment>Packaging update</Comment>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
